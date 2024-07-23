@@ -6,7 +6,7 @@ GAMR (Game Analytics – Mixed Reality) is an analytic tool designed to bridge t
 ## Getting Started
 The tool is already integrated with the samples. To use it, follow these steps:
 - Install [Unity 2020.3.18](https://unity.com/releases/editor/archive)
-- Clone the sample branch to your device
+- Clone the sample branch
 - Install the Mixed Reality Toolkit (MRTK) if it is not already included in the project.
 - Verify that the MRTK objects are present in the scene.
 
