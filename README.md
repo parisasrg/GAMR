@@ -20,4 +20,5 @@ The tool is already integrated with the samples. To use it, follow these steps:
 - (Optional) Modify the objects to record and track
 
   ![Alt_text](https://github.com/parisasrg/GAMR/blob/main/imgs/Screenshot%202024-07-23%20084640.png)
+  
   ![Alt_text](https://github.com/parisasrg/GAMR/blob/main/imgs/Screenshot%202024-07-23%20084735.png)
