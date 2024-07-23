@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86def815a2f54914fa6c8985222f926d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leftHandPrefab: {fileID: 3369754656502238752, guid: 6196c45d660973e44961c5971a86cec3, type: 3}
+  - rightHandPrefab: {fileID: 6929055768540292842, guid: 449622d64af6c9f4aadbde767d210aa2, type: 3}
+  - handMeshMaterial: {fileID: 2100000, guid: 45082b98567b3d44ca3bdbe39f46041a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
